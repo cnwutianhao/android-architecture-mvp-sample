@@ -1,8 +1,16 @@
 # Android Architecture MVP Sample
 
-Reference: https://github.com/android/architecture-samples/tree/todo-mvp
+**A basic Model-View-Presenter (MVP) architecture without using any architectural frameworks.**
 
-Implemented using the following classes and interfaces:
+👉 [Java Version](https://github.com/cnwutianhao/android-architecture-mvp-sample/tree/main/Java)
+<br/>Reference: https://github.com/android/architecture-samples/tree/todo-mvp
+<br/>
+<br/>
+👉 [Kotlin Version](https://github.com/cnwutianhao/android-architecture-mvp-sample/tree/main/Kotlin)
+<br/>Reference: https://github.com/android/architecture-samples/tree/todo-mvp-kotlin
+<br/>
+
+**Implemented using the following classes and interfaces:**
 + A contract class which defines the connection between the view and the presenter.
 + An Activity which creates fragments and presenters.
 + A Fragment which implements the view interface.
